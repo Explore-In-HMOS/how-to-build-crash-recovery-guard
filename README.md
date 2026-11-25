@@ -2,7 +2,7 @@
 
 # How to Build Crash Recovery Guard
 
-How to Build Crash Recovery Guard is a HarmonyOS NEXT wearable codelab that demonstrates fault-aware recovery with
+How to Build Crash Recovery Guard is a HarmonyOS wearable codelab that demonstrates fault-aware recovery with
 appRecovery, ErrorObserver, LoopObserver, recoverable UIAbility state, and a compact incident timeline on a round watch
 screen.
 
